@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<style>
+.div1
+{
+	background-color:gray;
+	
+
+
+}
+
+
+</style>
+<body>
+
+
+<div class="div1"">
+
+<h2 style="textcolor:#fff; background-color:gray">EMI Calculator</h2>
+    <form action="emi_calculator.jsp" method="post">
+        <label for="loanAmount">Loan Amount: $</label>
+        <input type="number" name="loanAmount" required><br><br>
+       
+        <label for="loanTerm">Loan Tenure (in months):</label>
+        <input type="number" name="loanTerm" required><br><br>
+        
+        
+        <label for="interestRate">Interest Rate: %</label>
+        <input type="number" name="interestRate"  required><br><br>
+        
+        
+        <input type="submit" value="Calculate" >
+        <input type="Button" value="Clear" >
+    </form>
+
+    <hr>
+</div>
+</body>
+</html>

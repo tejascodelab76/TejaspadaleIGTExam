@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\tejas.padale\IGT-Exam\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+852189591.index
+2861797230.index
+2929480451.index
+1796093482.index

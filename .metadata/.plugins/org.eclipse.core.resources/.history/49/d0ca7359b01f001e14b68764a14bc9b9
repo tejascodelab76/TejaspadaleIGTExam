@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Rersitation Page in HTMl</title>
+</head>
+<body>
+
+
+    <div>
+    	<form Action ="">
+    	 Student ID     : <input type = "number" name="uid"/> 
+       Student Name     : <input type = "text" name="uname"/> 
+    	 Student PHNO   : <input type = "number"  name="upnumber"/> 
+    	 Student Marks  : <input type = "number" name="umarks"/> 
+    	 Student Branch : <input type = "text"   name="ubranch"/> 
+    	 
+    	  
+    	
+    	
+    	
+    	</form>
+    
+    
+    </div>
+
+
+
+
+
+
+</body>
+</html>
